@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#555555</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#00adef</color>
+
+    <color name="border">#B8B8B8</color>
+    <color name="link">#4597EF</color>
+    <color name="dark">#828484</color>
+
+    <color name="white">#ffffff</color>
+    <color name="green">#18c319</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0000ff</color>
+    <color name="transparent">#EEE7E0</color>
+    <color name="lineColor">#24A802</color>
+    <color name="lineTransColor">#8824A802</color>
+    <color name="red">#ff0000</color>
+    <color name="grey">#b3b3b3</color>
+    <color name="grey1">#E0DEDE</color>
+    <color name="grey2">#FAFAFA</color>
+    <color name="black_trans50">#55000000</color>
+    <color name="bluecolor">#00adef</color>
+    <color name="addToCartColor">#00adef</color>
+    <color name="viewItem">#ace8ff</color>
+    <color name="backcolor">#f7f7f7</color>
+
+    <color name="background_color">#00adef</color>
+
+    <color name="back_secondary">#ebebeb</color>
+    <color name="back_default">#F9F9F9</color>
+    <color name="blue_600">#125fca</color>
+    <color name="font_dark">#2a3846</color>
+    <color name="gray_300">#b2b2b2</color>
+    <color name="gray_800">#191919</color>
+    <color name="bone_color">#E6E6E6</color>
+    <color name="bone_color_alt">#C8C8C8</color>
+
+    <color name="bone_ray_color">#D7BEBEBE</color>
+    <color name="bone_ray_color_alt">#ffffff</color>
+
+</resources>

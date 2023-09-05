@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/parent_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backcolor"
+    android:paddingLeft="15dp"
+    android:paddingTop="5dp"
+    android:paddingRight="15dp"
+    android:paddingBottom="0dp">
+
+    <com.skydoves.androidveil.VeilRecyclerFrameView
+        android:id="@+id/rv_pizza"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:veilFrame_layout="@layout/veil_list_item"
+        app:veilFrame_veiled="true"
+        app:veilFrame_shimmerEnable="true"
+        app:veilFrame_baseColor="@color/border"
+        app:veilFrame_highlightColor="@color/white"
+        app:veilFrame_baseAlpha="0.6"
+        app:veilFrame_highlightAlpha="1.0"
+        app:veilFrame_radius="8dp"/>
+</LinearLayout>

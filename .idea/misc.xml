@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/border.xml" value="0.30572916666666666" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/border_error.xml" value="0.3828125" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/bottom_border.xml" value="0.3828125" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/btn_round_white_sel.xml" value="0.3828125" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/colormenu.xml" value="0.21770833333333334" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/counter_drawable.xml" value="0.21770833333333334" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/ic_check.xml" value="0.2109375" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/ic_clock_black.xml" value="0.3828125" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/ic_close.xml" value="0.3828125" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/round_bg.xml" value="0.3828125" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/rounded_black.xml" value="0.3828125" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/shadow.xml" value="0.3828125" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/font/.xml" value="0.396875" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout-v21/add_to_cart_dialog.xml" value="0.5" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_add_address.xml" value="0.25" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_delivery.xml" value="0.33" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_forgot.xml" value="0.33" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_main.xml" value="0.2015625" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_order_confirmed.xml" value="0.17831813576494426" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_payment.xml" value="0.17831813576494426" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_register.xml" value="0.28958333333333336" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_track_order.xml" value="0.16875" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_view_cart.xml" value="0.16875" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_view_item.xml" value="0.25" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_view_ordered_item.xml" value="0.16875" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/add_to_cart_dialog.xml" value="0.2" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/alert_dialog.xml" value="0.17831813576494426" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/app_bar_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/cart_count_layout.xml" value="0.2015625" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/content_main.xml" value="0.16875" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/custom_menu.xml" value="0.2015625" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/dropdown_menu_popup_item.xml" value="0.16875" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_addaddress.xml" value="0.2015625" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_contactus.xml" value="0.2015625" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_exploremenu.xml" value="0.2015625" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_exploremenu_pizza.xml" value="0.2015625" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_favorites_pizza.xml" value="0.2015625" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_favorties.xml" value="0.2015625" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_maplocation.xml" value="0.2015625" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_myorders.xml" value="0.2015625" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_myprofile.xml" value="0.33" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_offersdiscounts.xml" value="0.2015625" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_orderconfirmed.xml" value="0.2015625" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_viewcart.xml" value="0.33" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_viewitem_size.xml" value="0.17831813576494426" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_viewordereditem.xml" value="0.17831813576494426" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/item_adress.xml" value="0.17028985507246377" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listitem_address.xml" value="0.20652173913043478" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listitem_cart.xml" value="0.4671875" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listitem_fav_pizza.xml" value="0.20652173913043478" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listitem_myorders_past.xml" value="0.17831813576494426" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listitem_myorders_process.xml" value="0.17831813576494426" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listitem_orderdiscount.xml" value="0.5" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listitem_ordereditem.xml" value="0.17831813576494426" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listitem_pizza.xml" value="0.33" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listview_cart.xml" value="0.2015625" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/nav_header_main.xml" value="0.16875" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/role_select_dialog.xml" value="0.25" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/shadow.xml" value="0.26403985507246375" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/stop_recording_dialog.xml" value="0.16875" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.16875" />
+        <entry key="..\:/WWW  Fasa Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2015625" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/border.xml" value="0.2296875" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/border_bottom.xml" value="0.20989583333333334" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/btn_round_white.xml" value="0.2296875" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/btn_round_white_sel.xml" value="0.2296875" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/btn_top_round_white.xml" value="0.2296875" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/rectangle_dash_line.xml" value="0.23489583333333333" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/round_back.xml" value="0.3828125" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/sel_card.xml" value="0.3828125" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/sel_white.xml" value="0.2296875" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/skeleton_view.xml" value="0.3769230769230769" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/drawable/tint_input.xml" value="0.3828125" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/font/.xml" value="0.396875" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/font/allerta.xml" value="0.396875" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/font/pacifico.xml" value="0.396875" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/font/raleway.xml" value="0.396875" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_add_address.xml" value="0.3179347826086957" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_delivery.xml" value="0.33" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_forgot.xml" value="0.30480072463768115" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_main.xml" value="0.3052536231884058" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_order_confirmed.xml" value="0.2708333333333333" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_payment.xml" value="0.3179347826086957" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_register.xml" value="0.30480072463768115" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_track_order.xml" value="0.5" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_view_cart.xml" value="0.48338368580060426" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_view_item.xml" value="0.33" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/activity_view_ordered_item.xml" value="0.46473029045643155" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/add_to_cart_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/alert_dialog.xml" value="0.29010416666666666" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/cart_count_layout.xml" value="0.2078125" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/content_main.xml" value="0.3179347826086957" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/custom_menu.xml" value="0.3179347826086957" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/dlg_layout.xml" value="0.3016304347826087" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/dlg_loading.xml" value="0.29438405797101447" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/dropdown_menu_popup_item.xml" value="0.3179347826086957" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_contactus.xml" value="0.33" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_exploremenu.xml" value="0.30480072463768115" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_exploremenu_pizza.xml" value="0.2078125" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_favorites_pizza.xml" value="0.20520833333333333" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_favorties.xml" value="0.2078125" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_maplocation.xml" value="0.2078125" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_myorders.xml" value="0.3179347826086957" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_myprofile.xml" value="0.5" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_offersdiscounts.xml" value="0.2078125" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_orderconfirmed.xml" value="0.2078125" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_viewcart.xml" value="0.16252821670428894" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_viewitem_size.xml" value="0.29438405797101447" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/fragment_viewordereditem.xml" value="0.16666666666666666" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/item_adress.xml" value="0.33" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listitem_address.xml" value="0.21875" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listitem_card.xml" value="0.25" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listitem_cart.xml" value="0.5310880829015544" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listitem_myorders_past.xml" value="0.3179347826086957" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listitem_myorders_process.xml" value="0.3179347826086957" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listitem_orderdiscount.xml" value="0.5" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listitem_ordereditem.xml" value="0.3179347826086957" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listitem_pizza.xml" value="0.25" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/listview_cart.xml" value="0.21875" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/nav_header_main.xml" value="0.3179347826086957" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/role_select_dialog.xml" value="0.2667572463768116" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/stop_recording_dialog.xml" value="0.3179347826086957" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/veil_list_item.xml" value="0.48359486447931527" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/veil_listitem_address.xml" value="0.22" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/veil_listitem_card.xml" value="0.29438405797101447" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/veil_listitem_cart.xml" value="0.5166908563134979" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/veil_listitem_contact.xml" value="0.21875" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/veil_listitem_cuopon.xml" value="0.33" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/veil_listitem_detail.xml" value="0.4854771784232365" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/veil_listitem_medium.xml" value="0.21875" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/layout/veil_listitem_order.xml" value="0.29438405797101447" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/WWW_Fasa_Work/manstar/source/DeliveryApp UI android 12.01/DeliveryApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

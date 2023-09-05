@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_address"
+            android:icon="@drawable/restaurant"
+            android:title="132 Cherry Street, NN3, 2HF" />
+        <item
+            android:id="@+id/nav_phone"
+            android:icon="@drawable/icon_contact"
+            android:title="0208 123 4567" />
+        <item
+            android:id="@+id/nav_openingweek1"
+            android:icon="@drawable/ic_clock"
+            android:title="Mon-Fri 10:00 12:00" />
+        <item
+            android:id="@+id/nav_openingweek2"
+            android:icon="@drawable/ic_clock"
+            android:title="Sat-Sun 10:00 13:00" />
+    </group>
+
+    <group
+        android:id="@+id/menu_medium"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_trackorder"
+            android:icon="@drawable/icon_bicycle"
+            android:title="TRACK CURRENT ORDER"/>
+    </group>
+
+    <group
+        android:id="@+id/menu_bottom"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_exploremenu"
+            android:icon="@drawable/restaurant"
+            android:title="Explore Menu"/>
+        <item
+            android:id="@+id/nav_offers"
+            android:icon="@drawable/icon_offersdiscounts"
+            android:title="Offers &amp; Discounts"/>
+        <item
+            android:id="@+id/nav_myorders"
+            android:icon="@drawable/icon_list"
+            android:title="My Orders"/>
+        <item
+            android:id="@+id/nav_myprofile"
+            android:icon="@drawable/icon_profile"
+            android:title="My Profile"/>
+        <item
+            android:id="@+id/nav_contactus"
+            android:icon="@drawable/icon_contact"
+            android:title="Contact us"/>
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_restaurant"
+            android:title="Log Out"/>
+    </group>
+</menu>

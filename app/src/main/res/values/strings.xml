@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">DeliveryApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="pizza_desc">A pizza that goes ballistic on veggies! Check out this mouth watering overload of crunchy, crip capsicum, succulent, etc. ballistic on veggies! Check out this mouth watering overload of</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="log_in">Log In</string>
+    <string name="sing_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="log_image">App Logo</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_text">Please enter your details to login to you Account</string>
+    <string name="register_text">Please enter your details to signup to you Account</string>
+    <string name="forgot_text">Please enter your Email address to reset your details</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="btn_continue">Continue</string>
+    <string name="register">Register</string>
+    <string name="str_orderity">Orderity</string>
+    <string name="str_abc123">Abc123</string>
+    <string name="full_name">Full Name</string>
+    <string name="full_name_hint">Sam Smith</string>
+    <string name="email_address">Email Address</string>
+    <string name="invalid_email">PLEASE ENTER VALID EMAIL ADDRESS</string>
+    <string name="input_email">PLEASE ENTER EMAIL ADDRESS</string>
+    <string name="email_address_cap">EMAIL ADDRESS</string>
+    <string name="email_hint">samsmith@mail.com</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="phone_number_cap">PHONE NUMBER</string>
+    <string name="phone_hint">987 654 3210</string>
+    <string name="address">Address</string>
+    <string name="address2">Address 2</string>
+    <string name="city">City</string>
+    <string name="address_hint">United Kingdom</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="submit">Submit</string>
+    <string name="postcode">Postcode</string>
+    <string name="postcode_caps">POSTCODE</string>
+    <string name="save">Save</string>
+    <string name="home">Home</string>
+    <string name="coupon_code_hint">CAOK65517</string>
+    <string name="notes_hint">e.g. allergic</string>
+    <string name="postcode_hint">EC1A 1BB</string>
+    <string name="home_hint">Home</string>
+    <string name="address_title">Address Title</string>
+    <string name="delivery">Delivery</string>
+    <string name="remove_adress">Remove Adress?</string>
+    <string name="ok">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="login">Login</string>
+    <string name="remove_item">Are you sure you want to remove this item?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="crash_toast_text">Send crash report to developer</string>
+    <string name="register_now">Register Now</string>
+    <string name="add_to_order">Add to Order</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="label_postcode">Please enter your delivery postcode</string>
+    <string name="continue_to_cart">Continue to Cart</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="service_fee">Service Fee</string>
+    <string name="delivery_charge">Delivery Charge</string>
+    <string name="when_to_deliver">When to Deliver?</string>
+
+</resources>
